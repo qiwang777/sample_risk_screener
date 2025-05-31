@@ -17,3 +17,7 @@ In TypeScript and React, use Ag-Grid and any other UI libraries required to disp
 ## How to start
 * `client` folder containing a vite/React/TS application with Ag-Grid installed
 * `server` folder containing a Python flask (or fast api) application and data files representing the securities and metrics
+
+
+* Go to 'server' folder and execute 'main.py' to start the service
+* Go to 'client' folder and execute 'npm run dev' to start the frontend page
